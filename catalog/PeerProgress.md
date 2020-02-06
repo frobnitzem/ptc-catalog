@@ -2,7 +2,7 @@
 
 ## Target
 
-According as circumstances are favorable, one should modify one's plans.
+According as circumstances are favorable, one should modify one's plans. (Sun Tzu)
 
 ## User Story
 
