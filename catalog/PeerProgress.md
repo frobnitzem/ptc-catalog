@@ -15,8 +15,8 @@ so that project efforts can adapt to changing circumstances.
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No regular literature or news review practices are established. |
-| 1 | Team discusses recent project-related developments. |
-| 2 | A list has been made of primary peers, journals, conferences, and blogs / social media sources relevant to the project. |
+| 1 | Team establishes a venue to discuss recent project-related developments. |
+| 2 | An up-to-date list exists of primary peers, journals, conferences, and blogs / social media sources relevant to the project. |
 | 3 | Regular reviews of project-related developments are performed, involving RSS where practical. |
 | 4 | Evolving capabilities and goals of related efforts are tracked over time. |
 | 5 | Team commits to reviewing and suggesting ways to adapt to new developments. |
